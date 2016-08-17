@@ -1,0 +1,8 @@
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Capacitance,Resistance,Is Generic,Category 9E07530Daf1645C0,Category 08B8C5B23945D37F,Verified Pin Names,Verified Pad Assignment,Lifecycle Status,Verified Attributes,Slew Rate,Output Power,Verified Geometry,Supply Voltage Dc,Category 694Aa4405Cf2B28D,Mfg Package Ident,Category 5Ebe93B46B188579
+BT1 BT2,Generic Battery,Generic,Battery,,,2,,,,,,,,,,,,,,,,
+C1 C9,Generic Electrolytic Capacitor (0.0001F),Generic,Electrolytic Capacitor (0.0001F),,"0805 (2012 metric), polarized",2,0.0001F,,,,,,,,,,,,,,,
+C10 C2,Generic Electrolytic Capacitor (10uF),Generic,Electrolytic Capacitor (10uF),,"0805 (2012 metric), polarized",2,10uF,,,,,,,,,,,,,,,
+J1 J2,3.5 MM AUDIO JACKS,CUI,SJ-358XNG,,TH,2,,,,,,,,,,,,,,,,
+R11 R12 R15 R16 R19 R20 R23 R24,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),8,,5k,true,,,,,,,,,,,,,
+R9 R10,Generic Resistor (5k),Generic,Resistor (5k),,1206 (3216 metric),2,,5k,true,,,,,,,,,,,,,
+U1,HIGH FIDELITY HEADPHONE AMPLIFIER,Texas Instruments,TPA6120A2DWPG4,Digi-Key 296-36165-5-ND/Newark 24M8504,SOIC20,1,,,,Semiconductors and Actives,"Amplifiers, Buffers",true,true,Active,true,1.3 kV/μs,1.5 W,true,30 V,Headphone Amplifiers,DWP (R-PDSO-G20),Audio Amplifiers
