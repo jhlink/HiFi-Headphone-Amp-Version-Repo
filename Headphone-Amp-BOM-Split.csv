@@ -1,20 +1,26 @@
-Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Capacitance,Resistance,Is Generic,Category 9E07530Daf1645C0,Category 08B8C5B23945D37F,Verified Pin Names,Verified Pad Assignment,Lifecycle Status,Verified Attributes,Slew Rate,Output Power,Verified Geometry,Supply Voltage Dc,Category 694Aa4405Cf2B28D,Mfg Package Ident,Category 5Ebe93B46B188579
-BT1,Generic Battery,Generic,Battery,,,1,,,,,,,,,,,,,,,,
-BT2,Generic Battery,Generic,Battery,,,1,,,,,,,,,,,,,,,,
-C1,Generic Electrolytic Capacitor (0.0001F),Generic,Electrolytic Capacitor (0.0001F),,"0805 (2012 metric), polarized",1,0.0001F,,,,,,,,,,,,,,,
-C10,Generic Electrolytic Capacitor (10uF),Generic,Electrolytic Capacitor (10uF),,"0805 (2012 metric), polarized",1,10uF,,,,,,,,,,,,,,,
-C2,Generic Electrolytic Capacitor (10uF),Generic,Electrolytic Capacitor (10uF),,"0805 (2012 metric), polarized",1,10uF,,,,,,,,,,,,,,,
-C9,Generic Electrolytic Capacitor (0.0001F),Generic,Electrolytic Capacitor (0.0001F),,"0805 (2012 metric), polarized",1,0.0001F,,,,,,,,,,,,,,,
-J1,3.5 MM AUDIO JACKS,CUI,SJ-358XNG,,TH,1,,,,,,,,,,,,,,,,
-J2,3.5 MM AUDIO JACKS,CUI,SJ-358XNG,,TH,1,,,,,,,,,,,,,,,,
-R10,Generic Resistor (5k),Generic,Resistor (5k),,1206 (3216 metric),1,,5k,true,,,,,,,,,,,,,
-R11,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R12,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R15,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R16,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R19,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R20,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R23,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R24,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,5k,true,,,,,,,,,,,,,
-R9,Generic Resistor (5k),Generic,Resistor (5k),,1206 (3216 metric),1,,5k,true,,,,,,,,,,,,,
-U1,HIGH FIDELITY HEADPHONE AMPLIFIER,Texas Instruments,TPA6120A2DWPG4,Digi-Key 296-36165-5-ND/Newark 24M8504,SOIC20,1,,,,Semiconductors and Actives,"Amplifiers, Buffers",true,true,Active,true,1.3 kV/μs,1.5 W,true,30 V,Headphone Amplifiers,DWP (R-PDSO-G20),Audio Amplifiers
+Reference Designator,Description,Manufacturer,Manufacturer Part Number,Suppliers,Package,Quantity,Category 85Ce48C4B2B95E09,Size Length,Case Package Si,Reach Svhc Compliance,Category 4C11811B7D3097D6,Capacitance,Verified Pad Assignment,Capacitance Tolerance,Verified Attributes,Dielectric Characteristic,Verified Pin Names,Voltage Rating Dc,Mounting Style,Category F8883582C9A8234F,Verified Geometry,Category 7542B8484461Ae85,Imported From,Dielectric Material,Size Width,Size Height,Mounting Type,Lifecycle Status,Size Thickness,Ipc Land Pattern Name,Size / Dimension,Ripple Current,Height - Seated (Max),Voltage Rating,Lead Spacing,Package / Case,Packaging,Operating Temperature,Lifetime @ Temp.,Standard Package,Impedance,Tolerance,Other Names,Features,Category 9E07530Daf1645C0,Category 08B8C5B23945D37F,Slew Rate,Output Power,Supply Voltage Dc,Category 694Aa4405Cf2B28D,Mfg Package Ident,Category 5Ebe93B46B188579,Newark Part Number,Digikey Part Number,Digikey Description,Inductance,Is Generic,Resistance
+B1,"Battery connection, custom",GENERIC,Generic Battery,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B2,"Battery connection, custom",GENERIC,Generic Battery,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C1,Ceramic Chip Capacitors,Kemet,C0805C104K5RACTU,Digi-Key 399-1170-1-ND/Digi-Key 399-1170-6-ND/Digi-Key 399-1170-2-ND/Newark 19C6015,0805,1,Uncategorized,0.002m,2012,No SVHC,Single Components,100 nF,true,±10%,true,X7R,true,50.0V,surface mount,Capacitors,true,Passive Components,Eagle,Ceramic,0.00125m,0.0009m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C2,Ceramic Chip Capacitors,Kemet,C0805C104K5RACTU,Digi-Key 399-1170-1-ND/Digi-Key 399-1170-6-ND/Digi-Key 399-1170-2-ND/Newark 19C6015,0805,1,Uncategorized,0.002m,2012,No SVHC,Single Components,100 nF,true,±10%,true,X7R,true,50.0V,surface mount,Capacitors,true,Passive Components,Eagle,Ceramic,0.00125m,0.0009m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C3,Ceramic Chip Capacitors,Kemet,C0805C104K5RACTU,Digi-Key 399-1170-1-ND/Digi-Key 399-1170-6-ND/Digi-Key 399-1170-2-ND/Newark 19C6015,0805,1,Uncategorized,0.002m,2012,No SVHC,Single Components,100 nF,true,±10%,true,X7R,true,50.0V,surface mount,Capacitors,true,Passive Components,Eagle,Ceramic,0.00125m,0.0009m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C4,Ceramic Chip Capacitors,Kemet,C0805C104K5RACTU,Digi-Key 399-1170-1-ND/Digi-Key 399-1170-6-ND/Digi-Key 399-1170-2-ND/Newark 19C6015,0805,1,Uncategorized,0.002m,2012,No SVHC,Single Components,100 nF,true,±10%,true,X7R,true,50.0V,surface mount,Capacitors,true,Passive Components,Eagle,Ceramic,0.00125m,0.0009m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C5,10 uF Capacitor,Murata Erie,GRM32DF51H106ZA01L,Digi-Key 490-1891-6-ND/Digi-Key 490-1891-1-ND/Digi-Key 490-1891-2-ND/Newark 14T3398,1210,1,Uncategorized,3.2 mm,3225,,Single Components,10 uF,,+80/-20%,,Y5V,,50 V,,Capacitors,,Passive Components,,,2.5 mm,2 mm,surface mount,Active,2 mm,CAPC320250X200,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C6,10 uF Capacitor,Murata Erie,GRM32DF51H106ZA01L,Digi-Key 490-1891-6-ND/Digi-Key 490-1891-1-ND/Digi-Key 490-1891-2-ND/Newark 14T3398,1210,1,Uncategorized,3.2 mm,3225,,Single Components,10 uF,,+80/-20%,,Y5V,,50 V,,Capacitors,,Passive Components,,,2.5 mm,2 mm,surface mount,Active,2 mm,CAPC320250X200,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C7,No description,Panasonic Electronic Components,EEU-FC1J101,,,1,,,,,,100µF,,,,,,,,,,,PartsBot,,,,Through Hole,,,CAPRD500W80D1000H1250,"0.394"" Dia (10.00mm)",535mA,"0.492"" (12.50mm)",63V,"0.197"" (5.00mm)","Radial, Can",Bulk,-55°C ~ 105°C,3000 Hrs @ 105°C,200,256 mOhm,±20%,P10343,General Purpose,,,,,,,,,,,,,,
+C8,No description,Panasonic Electronic Components,EEU-FC1J101,,,1,,,,,,100µF,,,,,,,,,,,PartsBot,,,,Through Hole,,,CAPRD500W80D1000H1250,"0.394"" Dia (10.00mm)",535mA,"0.492"" (12.50mm)",63V,"0.197"" (5.00mm)","Radial, Can",Bulk,-55°C ~ 105°C,3000 Hrs @ 105°C,200,256 mOhm,±20%,P10343,General Purpose,,,,,,,,,,,,,,
+IC1,HIGH FIDELITY HEADPHONE AMPLIFIER,Texas Instruments,TPA6120A2DWPG4,Digi-Key 296-36165-5-ND/Newark 24M8504,SOIC20,1,,,,,,,false,,false,,false,,,,false,,,,,,,Active,,,,,,,,,,,,,,,,,Semiconductors and Actives,"Amplifiers, Buffers",1.3 kV/μs,1.5 W,30 V,Headphone Amplifiers,DWP (R-PDSO-G20),Audio Amplifiers,,,,,,
+J1,3.5 MM AUDIO JACKS,CUI,SJ-358XNG,,TH,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+J2,3.5 MM AUDIO JACKS,CUI,SJ-358XNG,,TH,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+L1,"Ferrite Bead, 330 Ω at100 MHz, 2.5A",Generic,MPZ2012S331AT000,,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89R3159,445-1569-2-ND,330 Ohm Impedance Ferrite Bead 0805 (2012 Metric) Surface Mount Power Line 2.5A 1 Lines 50 mOhm Max DCR -55°C ~ 125°C,330 ohm @ 100Mhz,true,
+L2,"Ferrite Bead, 330 Ω at100 MHz, 2.5A",Generic,MPZ2012S331AT000,,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89R3159,445-1569-2-ND,330 Ohm Impedance Ferrite Bead 0805 (2012 Metric) Surface Mount Power Line 2.5A 1 Lines 50 mOhm Max DCR -55°C ~ 125°C,330 ohm @ 100Mhz,true,
+R1,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R10,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R2,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R3,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R4,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R5,Generic Resistor (5k),Generic,Resistor (5k),,1206 (3216 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R6,Generic Resistor (5k),Generic,Resistor (5k),,1206 (3216 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R7,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R8,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
+R9,Generic Resistor (5k),Generic,Resistor (5k),,0805 (2012 metric),1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,5k
